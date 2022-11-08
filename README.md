@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asahel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asahel-code&label=Profile%20views&color=0e75b6&style=flat" alt="asahel-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asahel-code" alt="asahel-code" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/asahelkk" target="blank"><img src="https://img.shields.io/twitter/follow/asahelkk?logo=twitter&style=for-the-badge" alt="asahelkk" /></a> </p>
+<p align="center"> <a href="https://twitter.com/asahelkk" target="blank"><img src="https://img.shields.io/twitter/follow/asahelkk?logo=twitter&style=for-the-badge" alt="asahelkk" /></a> </p>
 
 - 🌱 I’m currently learning **IoT, DevOps**
 
@@ -30,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asahel-code&show_icons=true&locale=en" alt="asahel-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asahel-code&" alt="asahel-code" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asahel-code&label=Profile%20views&color=0e75b6&style=flat" alt="asahel-code" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asahel-code" alt="asahel-code" /></a> </p>
