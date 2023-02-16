@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **IoT, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://asahel-portfolio.netlify.app](https://asahel-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-asahel.netlify.app](https://my-portfolio-asahel.netlify.app)
 
 - 💬 Ask me about **react, laravel, arduino, Esp32**
 
