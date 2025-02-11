@@ -85,7 +85,7 @@
 <h1 align="left" style="border-bottom: 1px solid #000;"></h1>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asahel-code&" alt="asahel-code" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asahel-code&show_icons=true&locale=en&layout=compact" alt="asahel-code" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asahel-code&show_icons=true&locale=en&layout=compact" alt="asahel-code" /></p> -->
 <h1 align="left" style="border-bottom: 1px solid #000;"></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asahel-code" alt="asahel-code" /></a> </p>
 
